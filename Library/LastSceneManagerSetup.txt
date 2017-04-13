@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scene/003_Transcript.unity
+  isLoaded: 1
+  isActive: 1
